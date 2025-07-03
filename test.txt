@@ -1,11 +1,16 @@
-1
-2
-nguyen van hai
-8.5 5.5 7.5
-tran van tuan
-8.5 5.0 9.0
-2
-2
-tran van nam
-5.5 5.0 6.0
 3
+Nguyen Van A
+12/12/1994
+3.5
+7.0
+5.5
+Nguyen Van B
+1/9/1994
+7.5
+9.5
+9.5
+Nguyen Van C
+6/7/1994
+8.5
+9.5
+8.5
