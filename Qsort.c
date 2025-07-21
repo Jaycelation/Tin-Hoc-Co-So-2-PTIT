@@ -28,6 +28,10 @@ int cmp(const void *a, const void *b) {
     return sv1->maSV - sv2->maSV;
 }
 
+int cmp2(const void *a, const void *b) {
+    return (*(int *)a - *(int *)b);
+}
+
 int main() {
     struct SinhVien sv[100];
 
@@ -41,6 +45,13 @@ int main() {
 
     for (int i = 0; i < 5; ++i) {
         printf("%d %s %.1f\n", sv[i].maSV, sv[i].tenSV, sv[i].diem);
+    }
+
+    int arr[5] = {2, 3, 4, 1, 5};
+    qsort(arr, 5, sizeof(int), cmp2);
+
+    for (int i = 0; i < 5; ++i) {
+        printf("%d ", arr[i]);
     }
 
     return 0;
