@@ -1,8 +1,13 @@
-7
-29-T1 123.45
-29-T1 555.55
-29-T1 222.33
-29-T1 686.88
-29-T1 123.33
-29-T1 555.54
-29-T1 606.88
+3
+May tinh SONY VAIO
+Dien tu
+16400
+17699
+Tu lanh Side by Side
+Dien lanh
+18300
+25999
+Banh Chocopie
+Tieu dung
+27.5
+37
